@@ -1,7 +1,8 @@
 <h1 align="center">PasswordTextFieldToggleIcon</h1> 
 
 <p align="center">
-This app was created to learn more about Android compose creating a
+This app was developed with the aim of exploring Jetpack Compose further. It involves the creation of 
+a custom component that integrates a toggle icon into a text field, serving as a practical learning 
 </p>
 
 ## Installation
