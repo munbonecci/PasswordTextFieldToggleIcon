@@ -2,7 +2,8 @@
 
 <p align="center">
 This app was developed with the aim of exploring Jetpack Compose further. It involves the creation of 
-a custom component that integrates a toggle icon into a text field, serving as a practical learning. 
+a custom component that integrates a toggle icon into a text field, serving as a practical learning 
+exercise for Jetpack Compose.
 </p>
 
 ## Installation
