@@ -96,7 +96,7 @@ fun PasswordVisibilityToggleIcon(
 ) {
     // Determine the icon based on password visibility
     val image = if (showPassword) Icons.Filled.Visibility else Icons.Filled.VisibilityOff
-    val contentDescription = if (showPassword) "Hide password" else "Show password"
+    val contentDescription = if (showPassword) "Hide password icon" else "Show password icon"
 
     // IconButton to toggle password visibility
     IconButton(onClick = onTogglePasswordVisibility) {
